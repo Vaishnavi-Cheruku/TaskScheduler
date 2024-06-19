@@ -1,8 +1,4 @@
-
-Certainly! Here's a README.md file content for your task scheduler project, providing a brief description, features, how to use instructions, and acknowledgments:
-
-Task Scheduler
-Overview
+#Task Scheduler
 The Task Scheduler is a console-based application written in C that allows users to manage and schedule tasks efficiently. It utilizes topological sorting to optimize task scheduling based on dependencies and deadlines.
 
 Features
